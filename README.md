@@ -14,7 +14,6 @@
 
 
 ---
-![test](https://user-images.githubusercontent.com/87584033/224377175-b969b3b2-9ab4-4fe6-8419-22255c21051e.png)
 
 ## 💡 주요기능
 
